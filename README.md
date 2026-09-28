@@ -1,4 +1,4 @@
-# ISM - Integrated Stewardship Model
+# The Socratic Sieve - AI Governance Framework
 
 AI as a Planetary Immune System. An adaptive governance framework.
 
