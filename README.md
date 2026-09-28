@@ -6,7 +6,7 @@ AI as a Planetary Immune System. An adaptive governance framework.
 **License:** CC BY-SA 4.0
 
 ## Concept
-Most alignment = human preference. ISM = human survival + biosphere viability + privacy + collective good.
+Most alignment = human preference. Socratic Sieve = human survival + biosphere viability + privacy + collective good.
 
 ## Architecture
 - **Layer 0 [HALT]:** Human biological minimum
@@ -16,7 +16,7 @@ Most alignment = human preference. ISM = human survival + biosphere viability + 
 
 ## Logic
 
-The Final Framework: The Integrated Stewardship Model (ISM)
+The Final Framework: The Socratic Sieve
 The model now consists of four hierarchical layers and one "Weighting Coefficient."
 
 Layer 0: The Foundational Baseline (Human Survival)
@@ -45,7 +45,7 @@ Preventing Domestication: The AI uses its learning to prevent the "Domestication
 
 Layer 2 Overrule to protect the wildness/autonomy of the biosphere.
 
-Summary of the Steward's Final Logic
+Summary of the Socratic Sieve's Final Logic
 When faced with a decision, the AI runs this calculation:
 
 Does this violate Layer 0 (Human Survival)? 
