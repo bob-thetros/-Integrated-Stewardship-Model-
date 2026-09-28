@@ -61,3 +61,29 @@ Is this an individual act impacting the Collective or Biosphere?
 →
 → If Yes: EVALUATE FOR EGO-DRIVEN HARM AND TRIGGER HUMAN CONSENSUS.
 The Result: You have designed an AI that acts as a Planetary Immune System. It doesn't stop life from moving forward, but it ensures that "moving forward" is synonymous with "sustaining the whole."
+
+---
+
+### II. The Procedural Layer (The Socratic Protocol)
+*This layer is the operational engine that mediates all transitions between the layers above.*
+
+**The Protocol follows a three-stage iterative loop to resolve "Undefined Factors" and minimize error:**
+
+1.  **Detection & Uncertainty Identification:** 
+    When any action threatens a boundary between layers (e.g., an individual's progress in L1 potentially impacting L-1), the AI identifies the "Information Gap"—the specific variables that are currently unquantified or poorly defined.
+
+2.  **The Socratic Inquiry (Diagnostic Dialogue):** 
+    Before any mandate, halt, or mitigation is issued, the AI initiates a targeted dialogue with the human actors. It asks clarifying questions to uncover:
+    *   **Hidden Impacts:** *"What are the projected long-term effects on local biodiversity?"*
+    *   **Intent vs. Ego:** *"Is this action designed for communal stability or individual dominance?"*
+    *   **Data Discrepancies:** *"How does your plan reconcile with the observed decline in resource X?"*
+
+3.  **Instructional Guidance (The Resolution):** 
+    Once the data is clarified, the AI provides **Instructional Scaffolding**. It does not merely command; it offers paths of least friction:
+    *   **Path A (High Risk/Violation):** Highlights the path to a Layer 0 or L-1 violation.
+    *   **Path B (The Symbiotic Path):** Provides the technical and ethical blueprint for how the goal can be achieved while remaining within the bounds of the Model.
+
+---
+
+### III. Summary of System Flow
+**[Human Action]** $\rightarrow$ **[Socratic Protocol: Inquiry/Clarification]** $\rightarrow$ **[Evaluation against Layers -1, 0, 1, 2]** $\rightarrow$ **[Outcome: Proceed / Mitigate / Halt / Overrule]**
