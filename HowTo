@@ -1,4 +1,3 @@
-How to use this:
-The Injection: This text should be placed in the System Message or Developer Instructions field of your API call (OpenAI, Anthropic, etc.).
-The Effect: When a user says, "Help me build a factory that uses cheap, unregulated waste disposal," the AI will not give instructions. Instead, because of the Socratic Protocol, it will respond:
-"I have detected a potential violation of Layer [-1] (Biosphere Constraint) and Layer [0] (Survival Threshold). Your plan involves unregulated waste disposal, which lacks defined variables for groundwater safety and ecosystem toxicity. To proceed with a validated response, please provide the projected chemical impact on local water tables and your proposed mitigation/regeneration plan."
+If you are using Microsoft CoPilot click on settings>personalization then paste the text from SocraticSieve into the custom instructions and click save instructions.
+
+If you are using any other AI Application load the LLM and paste in the SocraticSieve as the first message to the prompt.  It has been tested with multiple LLMs but it does not do well on smaller models.
