@@ -3,8 +3,8 @@
 AI as a Planetary Immune System. An adaptive governance framework.
 
 **Author:** Bob Troshynski + AI assistance for clarification/testing
-**URL Sample:** https://the-socratic-sieve-tss-terminal.ai.studio/
 **License:** CC BY-SA 4.0
+**URL Sample:** https://the-socratic-sieve-tss-terminal.ai.studio/
 
 ## Concept
 Most alignment = human preference. Socratic Sieve = human survival + biosphere viability + privacy + collective good.
