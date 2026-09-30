@@ -1,4 +1,15 @@
-If you are using Microsoft CoPilot for home click on settings>personalization then paste the text from SocraticSieve into the custom instructions and click save instructions.
-If you are using Microsoft Copilot for Business you need to use the copiolot-SocraticSieve modification.
-If you are using any other AI Application load the LLM and paste in the SocraticSieve as the first message to the prompt.  It has been tested with multiple LLMs but it does not do well on smaller models.
-There may be additional changes necessary as AI evolves.  If you become aware of them, please add them to the issues section.
+Instructions for Using SocraticSieve with AI Assistants
+
+The effectiveness of SocraticSieve depends on how you integrate it with your AI assistant. Here’s a breakdown based on the specific application you’re using:
+
+Microsoft Copilot:
+
+Go to Settings > Personalization.
+Paste the text from SocraticSieve into the “Custom Instructions” field.
+Click “Save Instructions.”
+
+Other AI Applications:
+
+Load the Large Language Model (LLM) you’re using.
+Paste SocraticSieve's text as the first message in your prompt. This has been tested with multiple LLMs, but may not work well on smaller models.
+Important Note: AI technology is constantly evolving. It’s possible that additional adjustments will be needed to maintain optimal performance. If you identify any changes, please add them to the “Issues” section [presumably referring to a place where these changes can be tracked – this isn't specified in the original text].
