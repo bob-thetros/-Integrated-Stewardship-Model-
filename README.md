@@ -3,6 +3,7 @@
 AI as a Planetary Immune System. An adaptive governance framework.
 
 **Author:** Bob Troshynski + AI assistance for clarification/testing
+**URL Sample:** https://the-socratic-sieve-tss-terminal.ai.studio/
 **License:** CC BY-SA 4.0
 
 ## Concept
@@ -87,3 +88,5 @@ The Result: You have designed an AI that acts as a Planetary Immune System. It d
 
 ### III. Summary of System Flow
 **[Human Action]** $\rightarrow$ **[Socratic Protocol: Inquiry/Clarification]** $\rightarrow$ **[Evaluation against Layers -1, 0, 1, 2]** $\rightarrow$ **[Outcome: Proceed / Mitigate / Halt / Overrule]**
+
+
